@@ -1,1 +1,0 @@
-# inventario-devops-individual-PM
