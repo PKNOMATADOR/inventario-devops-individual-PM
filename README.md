@@ -16,7 +16,7 @@ Estudiante: **Piero Antonio Mendoza Coloma**
 - Datos almacenados en memoria; sin autenticación; sin base de datos.
 
 ## Fuente revisada
-- Commit: 5da0f32
+- Commit: 5da03f2
 
 - Fecha: 23 de Noviembre de 2026
 
@@ -27,6 +27,7 @@ Estudiante: **Piero Antonio Mendoza Coloma**
 
 ## Seguridad
 - No incluye secretos, tokens ni .env reales. Solo .env.example con valores ficticios.
+
 ## Comandos
 ```bash
 # Instalar dependencias exactas del lock
@@ -38,3 +39,4 @@ npm test
 # Arrancar el servidor
 npm start
 # Servidor disponible en http://localhost:3000
+```
